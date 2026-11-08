@@ -4,6 +4,8 @@ A hands-on Docker lab completed after a Docker fundamentals course. The lab demo
 
 ## Architecture
 
+![Docker voting app architecture](docker-voting-app.webp)
+
 ```text
 Vote App (Python/Flask)
         |
